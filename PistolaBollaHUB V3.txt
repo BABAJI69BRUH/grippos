@@ -1398,6 +1398,18 @@ end
 DiscordLib:Notification("Notifica secsi 69", "Vertshub è stato eseguito", "Bello bvo")
 end)
 
+Chann1:Button("V-Hub", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Quan8008/V-Hub/Master/Launch-Screen.lua"))();
+DiscordLib:Notification("Notifica più secsi", "Il V-Hub è stato eseguito", "Ochei")
+end)
+
 Chann1:Seperator() -- Server bello
 
-Chann1:Label("Continuerò ad aggiornare lo script") -- label molto uvuese
+local Chann2 = Tab1:Channel("Gui Qualitose")
+
+Chann2:Button("Animation Gui", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Animation-Hub/main/Animation%20Gui"))()
+DiscordLib:Notification("Notifica seria!!1!1!", "Inizia ad usare tutte le animazioni che vuoi uwu", "Serio?")
+end)
+
+Chann1:Label("Continuerò ad aggiornare lo script") -- label molto uvuesca
