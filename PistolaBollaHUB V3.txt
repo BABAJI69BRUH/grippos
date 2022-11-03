@@ -1,8 +1,9 @@
 local DiscordLib = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/discord%20lib.txt")()
 
-local Win1 = DiscordLib:Window("🔥PistolaBollaHUB V3🔥") -- Titolo/Nome
+local Win1 = DiscordLib:Window("PistolaBollaHUB V3") -- Titolo/Nome
 
-local Tab1 = Win1:Server("PistolaBollaHUB lesgo", "") -- Per il "nome del server" lmao
+local Tab1 = Win1:Server("PistolaBollaHUB V3 lesgo
+", "") -- Per il "nome del server" lmao
 
 local Chann1 = Tab1:Channel("Hub") -- Per le Hub
 
