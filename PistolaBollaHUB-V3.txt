@@ -10956,3 +10956,24 @@ notify = true -- set this to false if u don't want to see notiflication
 loadstring("\13\10\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\71\101\116\79\98\106\101\99\116\115\40\34\114\98\120\97\115\115\101\116\105\100\58\47\47\55\50\53\55\55\54\49\55\56\53\34\41\91\49\93\46\83\111\117\114\99\101\41\40\41\13\10")()
 DiscordLib:Notification("Notifica", "Il NetBypass è stato eseguito", "okei")
 end)
+
+local Chann6 = Tab1:Channel("Id belli")
+
+Chann6:Button("Shotgun Willy - Wombo combo", function()
+    print("wombo combo")
+DiscordLib:Notification("Wombo combo id", "10673300026", "Bello")
+end)
+
+Chann6:Button("You Are An Idiot", function()
+    print("amenaui")
+DiscordLib:Notification("Id you are an idiot", "7266001792", "Scusa")
+end)
+
+Chann6:Button("Risata qualitosa", function()
+    print("Ridi ridi")
+DiscordLib:Notification("Id Risata qualitosa", "6882766712", "Rido")
+
+Chann6:Button("Suono rumoroso", function()
+    print("Spacco orechie")
+DiscordLib:Notification("Id Suono Rumoroso", "6846153394", "Ok")
+end)
