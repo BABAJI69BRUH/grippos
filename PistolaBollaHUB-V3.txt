@@ -10961,7 +10961,7 @@ local Chann6 = Tab1:Channel("Id belli")
 
 Chann6:Button("Shotgun Willy - Wombo combo", function()
     print("wombo combo")
-DiscordLib:Notification("Wombo combo id", "10673300026", "Bello")
+DiscordLib:Notification("Wombo combo id", "10673300026, unirsi al gruppo "slayer.." per sentirla", "Bello")
 end)
 
 Chann6:Button("You Are An Idiot", function()
