@@ -10947,6 +10947,7 @@ end)
 Chann5:Button("Nameless", function()
     loadstring(game:HttpGet("https://pastebin.com/raw/2rCyWKTJ"))()
 DiscordLib:Notification("Notifica", "Script bello eseguito", "Gvazie bvo")
+end)
 
 Chann5:Button("NetBypass", function()
     net = true -- if false = do nothing
