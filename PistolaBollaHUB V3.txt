@@ -11863,59 +11863,59 @@ end)
 
 Chann6:Button("Inno Italiano", function()
     print("sium")
-DiscordLib("Inno italiano", "Inno Italiano: 1840297307", "Ok")
+DiscordLib("Inno italiano", "Inno Italiano 1840297307", "Ok")
 end)
 
 Chann6:Button("Risata Qualitosa", function()
     print("banana")
-DiscordLib("Risata Qualitosa, "Risata Qualitosa: 6882766712", "hahaha")
+DiscordLib("Risata Qualitosa, "Risata Qualitosa 6882766712", "hahaha")
 end)
 
 Chann6:Button("Squillo bello: 4203251375", function()
     print("tartaruga")
-DiscordLib:Notification("Squillo bello", "Squillo bello: 4203251375", "Trrrr")
+DiscordLib:Notification("Squillo bello", "Squillo bello 4203251375", "Trrrr")
 end)
 
 Chann6:Button("Shotgun Willy - Wombo Combo", function()
     print("Sasso")
-DiscordLib:Notification("Shotgun Willy", "Wombo Combo: 10673300026, unirsi al gruppo "slayer.." per sentirla", "Mi unisco")
+DiscordLib:Notification("Shotgun Willy", "Wombo Combo 10673300026, unirsi al gruppo "slayer.." per sentirla", "Mi unisco")
 end)
 
 Chann6:Button("Its raining tacos", function()
     print("uwu")
-DiscordLib:Notification("Its raining tacos", "It's raining tacos: 142376088", "Sium")
+DiscordLib:Notification("Its raining tacos", "Its raining tacos 142376088", "Sium")
 end)
 
 Chann6:Button("Suono rumoroso qualitoso", function()
     print("joe mama")
-DiscordLib:Notification("Suono rumoroso", "Suono rumoroso qualitoso: 6846153394", "Ok")
+DiscordLib:Notification("Suono rumoroso", "Suono rumoroso qualitoso 6846153394", "Ok")
 end)
 
 Chann6:Button("Camion dei pompieri earrape", function()
     print("ciao")
-DiscordLib:Notification("Camion", "Camion dei pompieri earrape: 5852568801", "uuu")
+DiscordLib:Notification("Camion", "Camion dei pompieri earrape 5852568801", "uuu")
 end)
 
 Chann6:Button("Obunga", function()
     print("obinga")
-DiscordLib:Notification("Obunga", "Obunga:5216738441", "bello")
+DiscordLib:Notification("Obunga", "Obunga 5216738441", "bello")
 end)
 
 Chann6:Button("You are an idiot", function()
     print("banana 2")
-DiscordLib:Notification("Idiota", "You are an idiot: 7266001792", "ok scusa")
+DiscordLib:Notification("Idiota", "You are an idiot 7266001792", "ok scusa")
 end)
 
 Chann6:Button("Nerd di Minecraft", function()
     print("bic")
-DiscordLib:Notification("Nerd", "Nerd di Minecraft: 450172940", "Nerd")
+DiscordLib:Notification("Nerd", "Nerd di Minecraft 450172940", "Nerd")
 end)
 
 local Crediti = Tab1:("Crediti")
 
 Crediti:Button("Crediti secsi", function()
     print("clickatendms")
-DiscordLib:Notification("Crediti secsi", "Idea del PistolaBollaHUB: FCNM4TT10#3300. Idee di alcune GUI-HUB: Leoo!#8017. Besto friendo/supporter: QUELLO_DEL_2007#2740"
+DiscordLib:Notification("Crediti secsi", "Idea del PistolaBollaHUB: FCNM4TT10#3300. Idee di alcune GUI-HUB: Leoo!#8017. Besto friendo/supporter: QUELLO_DEL_2007#2740", "bello")
 end)
 
 Chann1:Label("Continuerò ad aggiornare lo script") -- label molto uvuesca
