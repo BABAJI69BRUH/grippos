@@ -11911,11 +11911,4 @@ Chann6:Button("Nerd di Minecraft", function()
 DiscordLib:Notification("Nerd", "Nerd di Minecraft 450172940", "Nerd")
 end)
 
-local Crediti = Tab1:("Crediti")
-
-Crediti:Button("Crediti secsi", function()
-    print("clickatendms")
-DiscordLib:Notification("Crediti secsi", "Idea del PistolaBollaHUB: FCNM4TT10#3300. Idee di alcune GUI-HUB: Leoo!#8017. Besto friendo/supporter: QUELLO_DEL_2007#2740", "bello")
-end)
-
 Chann1:Label("Continuerò ad aggiornare lo script") -- label molto uvuesca
