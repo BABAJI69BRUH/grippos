@@ -11878,14 +11878,11 @@ Chann6:Label("You are an idiot: 7266001792")
 
 Chann6:Label("Nerd di Minecraft: 450172940")
 
-local Tab2 = Win1:Server("Crediti", "")
+local Crediti = Tab1:("Crediti")
 
-local Crediti = Tab2:Channel("Crediti")
-
-Crediti:Button("mattmagnum10", function()
-    print("sium")
-DiscordLib("Idea del PistolaBollaHUB: FCNM4TT10#3300.
-Idea di alcune GUI-HUB: Leoo!#8017.
-Besto friendo: QUELLO_DEL_2007#2470")
+Crediti:Button("Crediti secsi", function()
+    print("clickatendms")
+DiscordLib:Notification("Crediti secsi", "Idea del PistolaBollaHUB: FCNM4TT10#3300. Idee di alcune GUI-HUB: Leoo!#8017. Besto friendo/supporter: QUELLO_DEL_2007#2740"
+end)
 
 Chann1:Label("Continuerò ad aggiornare lo script") -- label molto uvuesca
