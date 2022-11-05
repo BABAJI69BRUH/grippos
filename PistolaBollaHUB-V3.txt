@@ -10972,6 +10972,7 @@ end)
 Chann6:Button("Risata qualitosa", function()
     print("Ridi ridi")
 DiscordLib:Notification("Id Risata qualitosa", "6882766712", "Rido")
+end)
 
 Chann6:Button("Suono rumoroso", function()
     print("Spacco orechie")
