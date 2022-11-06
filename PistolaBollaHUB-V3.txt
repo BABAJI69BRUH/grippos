@@ -10978,3 +10978,20 @@ Chann6:Button("Suono rumoroso", function()
     print("Spacco orechie")
 DiscordLib:Notification("Id Suono Rumoroso", "6846153394", "Ok")
 end)
+
+local Chann8 = Tab1:Channel("Crediti")
+
+Chann8:Button("Creatore PistolaBollaHUB, function()
+    print("caca")
+DiscordLib:Notification("Creatore", "FCNM4TT10#3300", "Ok")
+end)
+
+Chann8:Button("Idee di alcune Hub, Gui", function()
+    print("cacae")
+DiscordLib:Notification("Idee di alcune Hub, Gui", "Leoo!#8017", "Ok")
+end)
+
+Chann8:Button("Besto friendo/Supporter", function()
+    print("sium")
+DiscordLib:Notification("Besto friendo/Supporter", "QUELLO_DEL_2007#2470", "Ok")
+end)
