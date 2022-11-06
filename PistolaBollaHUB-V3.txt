@@ -10993,5 +10993,5 @@ end)
 
 Chann7:Button("Besto friendo e Supporter", function()
     print("sium")
-DiscordLib:Notification("Besto friendo e Supporter", "sono_birichino", "Ok")
-end)
+DiscordLib:Notification("Besto friendo e Supporter", "il mio bvo tvoppo potente", "Ok")
+end
