@@ -33,7 +33,7 @@ end)
 
 Chann1:Button("HoHoHUB", function()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()
-DiscordLib:Notification("HoHoHUB", HoHoHUB eseguito", "Ok")
+DiscordLib:Notification("HoHoHUB", "HoHoHUB eseguito", "Ok")
 end)
 
 Chann1:Button("VertsHub", function()
