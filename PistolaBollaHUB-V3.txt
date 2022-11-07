@@ -31,6 +31,11 @@ Chann1:Button("Pineapple Hub", function()
 DiscordLib:Notification("Notifica secsi", "Paineppol ab è stata eseguita lesgo", "gvazie")
 end)
 
+Chann1:Button("HoHoHUB", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()
+DiscordLib:Notification("HoHoHUB", HoHoHUB eseguito", "Ok")
+end)
+
 Chann1:Button("VertsHub", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Enviie/New-Verts-Hub-Crack/main/Encrypt.lua"))("Encrypt")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Enviie/New-Verts-Hub-Crack/main/Encrypt1.lua"))("Arabic String")
