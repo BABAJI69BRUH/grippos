@@ -10962,6 +10962,12 @@ loadstring("\13\10\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\7
 DiscordLib:Notification("Notifica", "Il NetBypass è stato eseguito", "okei")
 end)
 
+Chann5:Button("Fe Ak 47", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/9qqaT4ug"))();
+end)
+DiscordLib:Notification("Notifica", "Puoi inculare gli slender bro", "SEE")
+end)
+
 local Chann6 = Tab1:Channel("Id belli")
 
 Chann6:Button("Shotgun Willy - Wombo combo", function()
@@ -10979,7 +10985,32 @@ Chann6:Button("Risata qualitosa", function()
 DiscordLib:Notification("Id Risata qualitosa", "6882766712", "Rido")
 end)
 
+Chann6:Button("Risata qualitosa 2", function()
+    print("rido ok")
+DiscordLib:Notification("Risata qualitosa 2", "374106817", "Rido")
+end)
+
 Chann6:Button("Suono rumoroso", function()
     print("Spacco orechie")
 DiscordLib:Notification("Id Suono Rumoroso", "6846153394", "Ok")
+end)
+
+Chann6:Button("BrooklynBloodPop", function()
+    print("nerusca")
+DiscordLib:Notification("BrooklynBloodPop", "6783714255", "Fico")
+end)
+
+Chann6:Button("Squillo Iphone", function()
+    print("tururu")
+DiscordLib:Notification("Squillo Iphone", "4203251375", "tururu")
+end)
+
+Chann6:Button("Notifica Samsung", function()
+    print("uwu")
+DiscordLib:Notification("Tu tu tu tutu", "6073491164", "Muoro")
+end)
+
+Chann6:Button("Stoop 1hp", function()
+    print("scusa")
+DiscordLib:Notification("Stoop 1hp", "7258313533", "Scusa")
 end)
