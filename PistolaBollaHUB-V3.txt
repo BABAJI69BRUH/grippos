@@ -11006,7 +11006,7 @@ DiscordLib:Notification("Squillo Iphone", "4203251375", "tururu")
 end)
 
 Chann6:Button("Notifica Samsung", function()
-    print("uwu")
+    print("uliliu")
 DiscordLib:Notification("Tu tu tu tutu", "6073491164", "Muoro")
 end)
 
