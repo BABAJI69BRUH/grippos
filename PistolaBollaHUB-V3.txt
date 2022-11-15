@@ -10964,7 +10964,6 @@ end)
 
 Chann5:Button("AK 47", function()
     loadstring(game:HttpGet("https://pastebin.com/raw/9qqaT4ug"))();
-end)
 DiscordLib:Notification("Notifica", "Puoi inculare gli slender bro", "SEE")
 end)
 
